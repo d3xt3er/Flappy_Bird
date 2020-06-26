@@ -3,7 +3,7 @@ Flappy Bird by TipsCode!
 
 
 <p align="center">
-  <img width="400" height="400" src="imagens/Flappy.png">
+  <img  src="imagens/Flappy.png">
 </p>
 
 <p>Mini Curso - canal TipsCode</p>
